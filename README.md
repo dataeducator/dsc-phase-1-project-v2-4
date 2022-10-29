@@ -100,6 +100,6 @@ Finally, after looking for patterns between genre and worldwide profit, I found 
 Create movies that are __Sci-Fi, __Animation__ or __Adventure films__ with a budget of approximately 215 million dollars. When creating movies, use effective directors, specially choose a director like *Joe Russo, Anthony Russo, Colin Treverrow, James Wan or Joss Whedon* who have demonstrated successful direction of profitable movies on the worldwide stage.  If the film you launch is in the Sci-Fi genre, release it during May.  If the film you launch is in the Animation genre, launch it during June or July.  If the film you launch is in the Adventure genre, launch it during November. This will allow the new Microsoft studio to diversify their entry into the large video content space as the median worldwide profit for these films was found to be around __$200 million dollars__.
 
 # Future Work
-* Gather and analyze data on the genre of movies each director is known for
-* Use webscraping tools like <code>beautifulsoup</code> to find valuable insights from the film ratings and advertising budgets
+* Gather and analyze data on the genre of movies each director is known for.
+* Use webscraping tools like <code>beautifulsoup</code> to find valuable insights from the film ratings and advertising budgets.
  
