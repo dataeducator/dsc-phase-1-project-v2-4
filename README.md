@@ -71,4 +71,4 @@ For the first question I looked for correlations between attributes for the most
 
 ## Visualization for Question 1
 
-![Best Time of Year Graph](https://github.com/[dataeducator]/[dsc-phase-1-project-v2-4]/blob/[master]/[Images]/EDA_for_Question_1.png?raw=true)
+![Best Time of Year Graph](https://github.com/dataeducator/dsc-phase-1-project-v2-4/blob/master/Images/EDA_for_Question_1.png?raw=true)
