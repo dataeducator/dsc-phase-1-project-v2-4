@@ -22,37 +22,62 @@ The project has the following guiding questions:
 The datasets used in this project are from the following sources:
 * [IMDB](https://www.imdb.com/)
    - Type: sql database 
-       - Resources used: The following tables:
-                - movie_basics 
-                  - contains information the following attributes:
-                       - movie_id
-                       - primary_title
-                       - original_title
-                       - start_year
-                       - runtime_minutes
-                       - genres
-                 -movie_ratings 
-                   - contains information the following attributes:
-                       - movie_id
-                       - averagerating
-                       - numvotes
-                  -persons
-                  - contains information the following attributes:
-                       - person_id
-                       - primary_name
-                       - birth_year
-                       - death_year
-                       - primary_profession
-                  -directors
-                  - contains information the following attributes:
-                       - person_id
-                       - movie_id
+      - Resources used: The following tables:
+          - movie_basics 
+            - contains information about the following attributes:
+              - movie_id  <- string
+              - primary_title <- string
+              - original_title <- string
+              - start_year <- int
+              - runtime_minutes <- float
+              - genres <- string
+           - movie_ratings 
+             - contains information about the following attributes:
+               - movie_id <- string
+               - averagerating <- float
+               - numvotes <- string
+            - persons
+              - contains information about the following attributes:
+                - person_id <- string
+                - primary_name <- string
+                - birth_year <- float
+                - death_year <- float
+                - primary_profession <- string
+             - directors
+               - contains information about the following attributes:
+                 - person_id <-string
+                 - movie_id <- string
 
 * [TheMovieDB](https://www.themoviedb.org/)
     - Type: csv file
-        
+         - contains information about the following attributes:
+             - genre_ids
+             - id
+             - original_language
+             - original_title
+             - popularity
+             - release_date
+             - title
+             - vote_average
+             - vote_count
 * [Box Office Mojo](https://www.boxofficemojo.com/)
+    - Type: csv file
+         - contains information about the following attributes:
+             - title
+             - studio
+             - domestic_gross
+             - foreign_gross
+             - year
 * [The Numbers](https://www.the-numbers.com/)
+    - Type: csv file
+         - contains information about the following attributes:
+             - id
+             - movie (name)
+             - production_budget
+             - domestic_gross
+             - worldwide_gross
+             - release_year
+             - release_month
 ## Description of Data
 ***
 In order to determine answers to my guiding questions, first I needed to import relevant libraries and packages. 
@@ -109,14 +134,14 @@ You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
 # Repository Structure
 
-|- README.md
-|- data_analysis.ipynb
-|- data_preparation.ipynb
-|- project_format.ipynb
-|- microsoft_movie_studios_viability_analysis.ipynb
-|- microsoft_analysis_notebook
-|- zippedData
-|- Images
+ |- README.md                                           <- Overview for project reviewers
+ |- data_analysis.ipynb                                 <- Documentation of Exploratory Data Analysis in Jupyter notebook
+ |- data_preparation.ipynb                              <- Documentation of Data cleaning in Jupyter notebook
+ |- project_format.ipynb                                <- General project format in Jupyter notebook
+ |- microsoft_movie_studios_viability_analysis.ipynb    <- Documentation of Full Analysis in Jupyter notebook
+ |- microsoft_analysis_notebook                         <- PDF version of Full Analysis shown in Jupyter notebook
+ |- zippedData                                          <- Externally sourced data  
+ |- Images                                              <- Includes images generated from python code and sourced externally 
 
 
 
