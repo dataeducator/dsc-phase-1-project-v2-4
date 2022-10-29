@@ -48,7 +48,7 @@ This project will explore data related to current trends in the movie industry. 
     - Make visualizations
     - Analyze correlations
     - Summarize findings
-* __Discussion & Recommendations__
+* __Insights & Recommendations__
     - Discuss findings
     - Identify next steps based on findings
     
@@ -71,4 +71,35 @@ For the first question I looked for correlations between attributes for the most
 
 ## Visualization for Question 1
 
-![Best Time of Year Graph](https://github.com/dataeducator/dsc-phase-1-project-v2-4/blob/master/Images/EDA_for_Question_1.png?raw=true)
+![EDA_for_Question_1](Images/EDA_for_Question_1.png)
+
+# Question 2:  Which director makes the most profitable movies?
+***
+For the second question I looked at looked for correlations between the director of a movie and the profit for the top 100 most profitable movies. I explored this question by sorting values in a combined data frame using <cod>.sort_values()</code> along with visualizations created with <code>seaborn</code> and <code>matplotlib</code>
+
+## Visualization for Question 2
+
+![EDA_for_Question_2](Images/EDA_for_Question_2.png)
+
+# Question 3:  Which director makes the most profitable movies?
+***
+For the second question I looked at looked for correlations between the director of a movie and the profit for the top 100 most profitable movies. I explored this question by sorting values in a combined data frame using <cod>.sort_values()</code> along with visualizations created with <code>seaborn</code> and <code>matplotlib</code>
+
+## Visualization for Question 3
+
+![EDA_for_Question_3](Images/EDA_for_Question_3.png)
+
+# Insights and Recommendations
+***
+## Insights
+After look at relationships between release month and worldwide profit generation I found that the best months to release a movie are May, June, July, November and December. With __May__, __June__ and __July__ (Summer months) yielding the largest profits in the top most profitable films. 
+When viewing the top directors of the top 100 most profitable movies, I found that __Joe and Anthony Russo__ directed the most profitable movies out of the top 100 most profitable movies. While Colin Treverrow, James Wan, and Joss Whedon are amongst the top 5 directors to choose from when choosing directors based on their ability to create profitable movies. 
+Finally, after looking for patterns between genre and worldwide profit, I found that while __Animation__ is the best genre of movie to make with Adventure, Action, Sci-Fi and Musicals rounding out the top five best genres to create based on worldwide profit. 
+
+## Recommendations
+Create movies that are __Sci-Fi, __Animation__ or __Adventure films__ with a budget of approximately 215 million dollars. When creating movies, use effective directors, specially choose a director like *Joe Russo, Anthony Russo, Colin Treverrow, James Wan or Joss Whedon* who have demonstrated successful direction of profitable movies on the worldwide stage.  If the film you launch is in the Sci-Fi genre, release it during May.  If the film you launch is in the Animation genre, launch it during June or July.  If the film you launch is in the Adventure genre, launch it during November. This will allow the new Microsoft studio to diversify their entry into the large video content space as the median worldwide profit for these films was found to be around __$200 million dollars__.
+
+# Future Work
+* Gather and analyze data on the genre of movies each director is known for
+* Use webscraping tools like <code>beautifulsoup</soup> to find valuable insights from the film ratings and advertising budgets
+ 
