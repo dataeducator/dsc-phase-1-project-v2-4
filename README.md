@@ -1,10 +1,13 @@
 # Microsoft Movie Studios Viability Analysis
 ***
 ![My Image](Images/Data_Analysis_Microsoft_Movie_Studios.jpg)
+
 # Overview
-Microsoft is uniquely situated to leverage its existing technology holidings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
+Analysts at Business Wire estimate that the global film and video market will reach $410.6 billion by 2030. Microsoft is uniquely situated to leverage its existing technology holidings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
 
 # Business Understanding:
+Microsoft is uniquely situated to leverage its existing technology holidings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
+
 The project has the following guiding questions:
 * When is the best time of year to release a movie?
     - Find trends in the profit of movies based on their release month among the most profitable movies.
@@ -13,7 +16,7 @@ The project has the following guiding questions:
 * Which genres of movies make the most profit at the box office?
     - Determine pattern among succesful movie launches including the type and time of year they are released.
  
- # Data Understanding
+ # Data Understanding and Analysis
 ***
 ## Source of Data
 The datasets used in this project are from the following sources:
@@ -51,37 +54,6 @@ The datasets used in this project are from the following sources:
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [The Numbers](https://www.the-numbers.com/)
 ## Description of Data
-    
-## Method:
-***
-This project will explore data related to current trends in the movie industry. This exploration will include:
-* __Importing Relevant libraries and packages__
-    - Access code from different modules
-* __Data Preparation__
-    - Access databases and dataframes useful to this project
-    - Investigate data shape and datatype information
-    - Drop or impute null values
-    - Reduce complexity (ex. join dataframes where necessary, remove or replace missing values, address duplicates data)
-* __Addressing Question 1 through Exploratory Data Analysis (EDA)__ 
-    - Build or extract features from cleaned data
-    - Make visualizations
-    - Analyze correlations
-    - Summarize findings
-* __Addression Question 2 through EDA__
-    - Build or extract features from cleaned data
-    - Make visualizations
-    - Analyze correlations
-    - Summarize findings
-* __Addressing Question 3 through EDA__
-    - Build or extract features from cleaned data
-    - Make visualizations
-    - Analyze correlations
-    - Summarize findings
-* __Insights & Recommendations__
-    - Discuss findings
-    - Identify next steps based on findings
-    
- # Data Preparation
 ***
 In order to determine answers to my guiding questions, first I needed to import relevant libraries and packages. 
 
@@ -118,7 +90,7 @@ For the second question I looked at looked for correlations between the director
 
 ![EDA_for_Question_3](Images/EDA_for_Question_3.png)
 
-# Insights and Recommendations
+# Conclusion
 ***
 ## Insights
 After look at relationships between release month and worldwide profit generation I found that the best months to release a movie are May, June, July, November and December. With __May__, __June__ and __July__ (Summer months) yielding the largest profits in the top most profitable films. 
@@ -131,4 +103,8 @@ Create movies that are __Sci-Fi, __Animation__ or __Adventure films__ with a bud
 # Future Work
 * Gather and analyze data on the genre of movies each director is known for.
 * Use webscraping tools like <code>beautifulsoup</code> to find valuable insights from the film ratings and advertising budgets.
- 
+
+Please review my full analysis in [my Jupyter notebook](https://github.com/dataeducator/dsc-phase-1-project-v2-4/blob/master/student.ipynb) or [my presentation](https://link-url-here.org)my presentaion.
+You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
+
+
