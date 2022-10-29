@@ -4,7 +4,7 @@
 # Overview
 Microsoft is uniquely situated to leverage its existing technology holidings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
 
-# Goals:
+# Business Understanding:
 The project has the following guiding questions:
 * When is the best time of year to release a movie?
     - Find trends in the profit of movies based on their release month among the most profitable movies.
@@ -15,15 +15,44 @@ The project has the following guiding questions:
  
  # Data Understanding
 ***
-
+## Source of Data
 The datasets used in this project are from the following sources:
 * [IMDB](https://www.imdb.com/)
+   - Type: sql database 
+       - Resources used: The following tables:
+                - movie_basics 
+                  - contains information the following attributes:
+                       - movie_id
+                       - primary_title
+                       - original_title
+                       - start_year
+                       - runtime_minutes
+                       - genres
+                 -movie_ratings 
+                   - contains information the following attributes:
+                       - movie_id
+                       - averagerating
+                       - numvotes
+                  -persons
+                  - contains information the following attributes:
+                       - person_id
+                       - primary_name
+                       - birth_year
+                       - death_year
+                       - primary_profession
+                  -directors
+                  - contains information the following attributes:
+                       - person_id
+                       - movie_id
+
 * [TheMovieDB](https://www.themoviedb.org/)
+    - Type: csv file
+        
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [The Numbers](https://www.the-numbers.com/)
-
+## Description of Data
     
-# Method:
+## Method:
 ***
 This project will explore data related to current trends in the movie industry. This exploration will include:
 * __Importing Relevant libraries and packages__
