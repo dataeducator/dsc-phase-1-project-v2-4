@@ -1,10 +1,10 @@
 # Microsoft Movie Studios Viability Analysis
 ***
 
-# Introduction
+# Overview
 Microsoft is uniquely situated to leverage its existing technology holidings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
 
-# Business Understanding:
+# Goals:
 The project has the following guiding questions:
 * When is the best time of year to release a movie?
     - Find trends in the profit of movies based on their release month among the most profitable movies.
