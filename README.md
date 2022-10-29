@@ -1,6 +1,6 @@
 # Microsoft Movie Studios Viability Analysis
 ***
-![Data_Analysis_Microsoft_Movie_Studios](Images/Data_Analysis_Microsoft_Movie_Studios.jpg)
+(Images/Data_Analysis_Microsoft_Movie_Studios.jpg)
 # Overview
 Microsoft is uniquely situated to leverage its existing technology holidings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
 
