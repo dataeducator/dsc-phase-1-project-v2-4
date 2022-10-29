@@ -101,5 +101,5 @@ Create movies that are __Sci-Fi, __Animation__ or __Adventure films__ with a bud
 
 # Future Work
 * Gather and analyze data on the genre of movies each director is known for
-* Use webscraping tools like <code>beautifulsoup</soup> to find valuable insights from the film ratings and advertising budgets
+* Use webscraping tools like <code>beautifulsoup</code> to find valuable insights from the film ratings and advertising budgets
  
