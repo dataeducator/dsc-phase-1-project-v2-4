@@ -68,3 +68,7 @@ I used methods like <code>.info()</code>, <code>.head()</code> to review data sh
 # Question 1: When is the best time of year to release a movie?
 ***
 For the first question I looked for correlations between attributes for the most profitable films. I explored data related to this question using visualizations created with <code>seaborn</code> and <code>matplotlib</code>.
+
+## Visualization for Question 1
+
+![Best Time of Year Graph](https://github.com/[dataeducator]/[dsc-phase-1-project-v2-4]/blob/[master]/[Images]/EDA_for_Question_1.png?raw=true)
