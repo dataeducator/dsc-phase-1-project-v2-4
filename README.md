@@ -107,4 +107,16 @@ Create movies that are __Sci-Fi, __Animation__ or __Adventure films__ with a bud
 Please review my full analysis in [my Jupyter notebook](https://github.com/dataeducator/dsc-phase-1-project-v2-4/blob/master/student.ipynb) or [my presentation](https://link-url-here.org)my presentaion.
 You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
+# Repository Structure
+
+|- README.md
+|- data_analysis.ipynb
+|- data_preparation.ipynb
+|- project_format.ipynb
+|- microsoft_movie_studios_viability_analysis.ipynb
+|- microsoft_analysis_notebook
+|- zippedData
+|- Images
+
+
 
