@@ -134,14 +134,15 @@ You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
 # Repository Structure
 
- |- README.md                                           <- Overview for project reviewers
- |- data_analysis.ipynb                                 <- Documentation of Exploratory Data Analysis in Jupyter notebook
- |- data_preparation.ipynb                              <- Documentation of Data cleaning in Jupyter notebook
- |- project_format.ipynb                                <- General project format in Jupyter notebook
- |- microsoft_movie_studios_viability_analysis.ipynb    <- Documentation of Full Analysis in Jupyter notebook
- |- microsoft_analysis_notebook                         <- PDF version of Full Analysis shown in Jupyter notebook
- |- zippedData                                          <- Externally sourced data  
- |- Images                                              <- Includes images generated from python code and sourced externally 
-
+'''
+ |__README.md                                           <- Overview for project reviewers
+ |__data_analysis.ipynb                                 <- Documentation of Exploratory Data Analysis in Jupyter notebook
+ |__data_preparation.ipynb                              <- Documentation of Data cleaning in Jupyter notebook
+ |__project_format.ipynb                                <- General project format in Jupyter notebook
+ |__microsoft_movie_studios_viability_analysis.ipynb    <- Documentation of Full Analysis in Jupyter notebook
+ |__microsoft_analysis_notebook                         <- PDF version of Full Analysis shown in Jupyter notebook
+ |__zippedData                                          <- Externally sourced data  
+ |__Images                                              <- Includes images generated from python code and sourced externally 
+'''
 
 
