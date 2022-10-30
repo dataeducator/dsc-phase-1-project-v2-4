@@ -133,7 +133,7 @@ Please review my full analysis in [my Jupyter notebook](https://github.com/datae
 You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
 # Repository Structure
-
+* .
  -├── README.md                                           <- Overview for project reviewers
  -├── data_analysis.ipynb                                 <- Documentation of Exploratory Data Analysis in Jupyter notebook
  -├── data_preparation.ipynb                              <- Documentation of Data cleaning in Jupyter notebook
