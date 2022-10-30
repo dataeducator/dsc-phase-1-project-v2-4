@@ -51,33 +51,34 @@ The datasets used in this project are from the following sources:
 * [TheMovieDB](https://www.themoviedb.org/)
     - Type: csv file
          - contains information about the following attributes:
-             - genre_ids
-             - id
-             - original_language
-             - original_title
-             - popularity
-             - release_date
-             - title
-             - vote_average
-             - vote_count
+             - genre_ids &larr;string
+             - id &larr;int
+             - original_language &larr;string
+             - original_title &larr;string
+             - popularity &larr;float
+             - release_date &larr;string
+             - title &larr;string
+             - vote_average &larr;float
+             - vote_count &larr;int
 * [Box Office Mojo](https://www.boxofficemojo.com/)
     - Type: csv file
          - contains information about the following attributes:
-             - title
-             - studio
-             - domestic_gross
-             - foreign_gross
-             - year
+             - title &larr;string
+             - studio &larr;string
+             - domestic_gross &larr;float
+             - foreign_gross &larr;string
+             - year &larr;int
 * [The Numbers](https://www.the-numbers.com/)
     - Type: csv file
          - contains information about the following attributes:
-             - id
-             - movie (name)
-             - production_budget
-             - domestic_gross
-             - worldwide_gross
-             - release_year
-             - release_month
+             - id &larr;int
+             - movie &larr;string
+             - production_budget &larr;string
+             - domestic_gross &larr;string
+             - worldwide_gross &larr;string
+             - release_year &larr;int
+             - release_month &larr;int
+             
 ## Description of Data
 ***
 In order to determine answers to my guiding questions, first I needed to import relevant libraries and packages. 
