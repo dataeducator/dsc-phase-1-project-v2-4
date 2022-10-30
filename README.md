@@ -133,16 +133,17 @@ Please review my full analysis in [my Jupyter notebook](https://github.com/datae
 You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
 # Repository Structure
-* .
- -├── README.md                                           <- Overview for project reviewers
- -├── data_analysis.ipynb                                 <- Documentation of Exploratory Data Analysis in Jupyter notebook
- -├── data_preparation.ipynb                              <- Documentation of Data cleaning in Jupyter notebook
- -├── project_format.ipynb                                <- General project format in Jupyter notebook
- -├── microsoft_movie_studios_viability_analysis.ipynb    <- Documentation of Full Analysis in Jupyter notebook
- -├── microsoft_analysis_notebook                         <- PDF version of Full Analysis shown in Jupyter notebook
- -├── zippedData                                          <- Externally sourced data  
- -├── Images                                              <- Includes images generated from python code and sourced externally 
- -└── .gitignore                                          <- Specifies intentionally untracked files
+* . 
+    -├── README.md                                           <- Overview for project reviewers
+    -├── data_analysis.ipynb                                 <- Documentation of Exploratory Data Analysis in Jupyter notebook
+    -├── data_preparation.ipynb                              <- Documentation of Data cleaning in Jupyter notebook
+    -├── project_format.ipynb                                <- General project format in Jupyter notebook
+    -├── microsoft_movie_studios_viability_analysis.ipynb    <- Documentation of Full Analysis in Jupyter notebook
+    -├── microsoft_analysis_presentation                     <- PDF version of Full Analysis shown in a slidedeck
+    -├── microsoft_analysis_notebook                         <- PDF version of Full Analysis shown in Jupyter notebook
+    -├── zippedData                                          <- Externally sourced data  
+    -├── Images                                              <- Includes images generated from python code and sourced externally 
+    -└── .gitignore                                          <- Specifies intentionally untracked files
 
 
 
