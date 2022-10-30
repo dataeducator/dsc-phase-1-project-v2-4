@@ -134,7 +134,7 @@ You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
 # Repository Structure
 
- """
+'''
  ├── README.md                                           <- Overview for project reviewers
  ├── data_analysis.ipynb                                 <- Documentation of Exploratory Data Analysis in Jupyter notebook
  ├── data_preparation.ipynb                              <- Documentation of Data cleaning in Jupyter notebook
@@ -143,6 +143,7 @@ You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
  ├── microsoft_analysis_notebook                         <- PDF version of Full Analysis shown in Jupyter notebook
  ├── zippedData                                          <- Externally sourced data  
  ├── Images                                              <- Includes images generated from python code and sourced externally 
-"""
+ └── .gitignore
+'''
 
 
