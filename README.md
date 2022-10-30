@@ -25,7 +25,7 @@ The datasets used in this project are from the following sources:
       - Resources used: The following tables:
           - movie_basics 
             - contains information about the following attributes:
-              - movie_id  <- string
+              - movie_id  &larr; string
               - primary_title <- string
               - original_title <- string
               - start_year <- int
