@@ -145,7 +145,7 @@ You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
       ├── microsoft_analysis_notebook                          PDF version of Full Analysis shown in Jupyter notebook 
       ├── zippedData/                                          Externally sourced data  
       ├── Images/                                              Includes images generated from python code and sourced externally 
-      └── .gitignore                                           Specifies intentionally untracked files 
-</pre>
+      └── .gitignore                                           Specifies intentionally untracked files
+ </pre>
 
 
