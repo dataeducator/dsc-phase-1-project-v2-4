@@ -26,27 +26,27 @@ The datasets used in this project are from the following sources:
           - movie_basics 
             - contains information about the following attributes:
               - movie_id  &larr; string
-              - primary_title <- string
-              - original_title <- string
-              - start_year <- int
-              - runtime_minutes <- float
-              - genres <- string
+              - primary_title &larr; string
+              - original_title &larr; string
+              - start_year &larr; int
+              - runtime_minutes &larr; float
+              - genres &larr; string
            - movie_ratings 
              - contains information about the following attributes:
-               - movie_id <- string
-               - averagerating <- float
-               - numvotes <- string
+               - movie_id &larr; string
+               - averagerating &larr; float
+               - numvotes &larr; string
             - persons
               - contains information about the following attributes:
-                - person_id <- string
-                - primary_name <- string
-                - birth_year <- float
-                - death_year <- float
-                - primary_profession <- string
+                - person_id &larr; string
+                - primary_name &larr; string
+                - birth_year &larr; float
+                - death_year &larr; float
+                - primary_profession &larr; string
              - directors
                - contains information about the following attributes:
-                 - person_id <-string
-                 - movie_id <- string
+                 - person_id &larr;string
+                 - movie_id &larr; string
 
 * [TheMovieDB](https://www.themoviedb.org/)
     - Type: csv file
