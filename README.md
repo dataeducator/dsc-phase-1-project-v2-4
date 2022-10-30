@@ -134,10 +134,12 @@ You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
 # Repository Structure
 ***
-└── movie-studios-viability-project/
-<br>├── README.md                                            Overview for project reviewers </br>
-<br>├── data_analysis.ipynb                                  Documentation of Exploratory Data Analysis in Jupyter notebook</br>
-<br>├── data_preparation.ipynb                               Documentation of Data cleaning in Jupyter notebook</br>
+<pre>
+   └── movie-studios-viability-project/
+      ├── README.md                                            Overview for project reviewers  
+      ├── data_analysis.ipynb                                  Documentation of Exploratory Data Analysis in Jupyter notebook
+</pre>
+<br>├── data_preparation.ipynb                                 Documentation of Data cleaning in Jupyter notebook
 <br>├── project_format.ipynb                                 General project format in Jupyter notebook</br>
 <br>├── microsoft_movie_studios_viability_analysis.ipynb     Documentation of Full Analysis in Jupyter notebook</br>
 <br>├── microsoft_analysis_presentation                      PDF version of Full Analysis shown in a slidedeck</br>
