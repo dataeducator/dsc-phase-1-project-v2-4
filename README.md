@@ -130,7 +130,7 @@ Create movies that are __Sci-Fi, __Animation__ or __Adventure films__ with a bud
 * Gather and analyze data on the genre of movies each director is known for.
 * Use webscraping tools like <code>beautifulsoup</code> to find valuable insights from the film ratings and advertising budgets.
 
-Please review my full analysis in [my Jupyter notebook](https://github.com/dataeducator/movie-studios-viability-project/blob/master/microsoft_movie_studios_viability_analysis.ipynb) or [my presentation](https://github.com/dataeducator/movie-studios-viability-project/blob/master/microsoft_analysis_presentation.pdf) my presentaion.
+Please review my full analysis in [my Jupyter notebook](https://github.com/dataeducator/movie-studios-viability-project/blob/master/microsoft_movie_studios_viability_analysis.ipynb) or [my presentation](https://github.com/dataeducator/movie-studios-viability-project/blob/master/microsoft_analysis_presentation.pdf).
 You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
 # Repository Structure
