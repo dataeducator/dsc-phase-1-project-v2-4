@@ -133,7 +133,7 @@ Please review my full analysis in [my Jupyter notebook](https://github.com/datae
 You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
 
 # Repository Structure
-
+<p>
  .
 └── movie-studios-viability-project/                     
     ├── README.md                                               <- Overview for project reviewers
@@ -145,7 +145,7 @@ You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com.
     ├── Images/                                                 <- Folder of images generated from python code and sourced externally   
     ├── zippedData/                                             <- specifies intentionally untracked files that Git should ignore 
     └── .gitignore
- 
+ </p>
  
 
 
