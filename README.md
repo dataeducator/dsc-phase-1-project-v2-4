@@ -130,7 +130,7 @@ Create movies that are __Sci-Fi, __Animation__ or __Adventure films__ with a bud
 * Gather and analyze data on the genre of movies each director is known for.
 * Use webscraping tools like <code>beautifulsoup</code> to find valuable insights from the film ratings and advertising budgets.
 
-Please review my full analysis in [my Jupyter notebook](https://github.com/dataeducator/movie-studios-viability-project/blob/master/microsoft_movie_studios_viability_analysis.ipynb) or [my presentation](https://github.com/dataeducator/movie-studios-viability-project/blob/master/microsoft_analysis_presentation.pdf).
+Please review my full analysis in [my Jupyter notebook](https://github.com/dataeducator/movie-studios-viability-project/blob/master/microsoft_movie_studios_viability_analysis.ipynb) or [my presentation](https://github.com/dataeducator/movie-studios-viability-project/blob/master/presentation.pdf).
 You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com if you have additional questions.
 
 # Repository Structure
@@ -143,8 +143,8 @@ You may reach out to __Tenicka Norwood__ at t.terell.norwood@gmail.com if you ha
       ├── data_preparation.ipynb                               Documentation of Data cleaning in Jupyter notebook
       ├── project_format.ipynb                                 General project format in Jupyter notebook 
       ├── microsoft_movie_studios_viability_analysis.ipynb     Documentation of Full Analysis in Jupyter notebook 
-      ├── microsoft_analysis_presentation                      PDF version of Full Analysis shown in a slidedeck 
-      ├── microsoft_analysis_notebook                          PDF version of Full Analysis shown in Jupyter notebook 
+      ├── presentation                                         PDF version of Full Analysis shown in a slidedeck 
+      ├── notebook                                             PDF version of Full Analysis shown in Jupyter notebook 
       ├── zippedData/                                          Externally sourced data  
       ├── Images/                                              Includes images generated from python code and sourced externally 
       └── .gitignore                                           Specifies intentionally untracked files
