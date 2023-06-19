@@ -6,7 +6,7 @@
 Analysts at Business Wire estimate that the global film and video market will reach $410.6 billion by 2030. Microsoft is uniquely situated to leverage its existing technology holidings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
 
 # Business Understanding:
-Microsoft is uniquely situated to leverage its existing technology holidings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
+Microsoft is uniquely situated to leverage its existing technology holdings to redefine the film industry by crafting a one stop shop platform which manages the entire process from preproduction to filming to distribution. Microsoft's executives are in search of actionable ways to ensure successful movies are produced as they launch a new movie studio that is well supported from its onset. 
 
 The project has the following guiding questions:
 * When is the best time of year to release a movie?
@@ -14,7 +14,7 @@ The project has the following guiding questions:
 * Which director makes the most profitable movies?
     - Find directors who have proven track record of making films that generate profits worldwide.
 * Which genres of movies make the most profit at the box office?
-    - Determine pattern among succesful movie launches including the type and time of year they are released.
+    - Determine pattern among successful movie launches including the type and time of year they are released.
  
  # Data Understanding and Analysis
 ***
